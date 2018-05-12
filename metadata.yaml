@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '41191'
     url: http://www.gutenberg.org/2009/agents/41191
 description: 01025834
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41475#Old-Times-in-Dixie-LandA-Southern-Matron-s-Memories
 gutenberg_issued: '2012-11-24'
 gutenberg_type: Text
 identifiers:

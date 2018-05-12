@@ -1,0 +1,27 @@
+_repo: Old-Times-in-Dixie-LandA-Southern-Matron-s-Memories_41475
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41475-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Merrick, Caroline E. (Caroline Elizabeth)
+    birthdate: 1825
+    gutenberg_agent_id: '41191'
+    url: http://www.gutenberg.org/2009/agents/41191
+description: 01025834
+gutenberg_issued: '2012-11-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41475'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Louisiana -- History -- Civil War, 1861-1865'
+- !lcsh 'Southern States -- Social life and customs -- 1865-'
+- !lcsh 'Louisiana -- Social life and customs'
+- !lcc 'F350.5'
+title: 'Old Times in Dixie Land: A Southern Matron''s Memories'
+url: http://www.gutenberg.org/ebooks/41475
